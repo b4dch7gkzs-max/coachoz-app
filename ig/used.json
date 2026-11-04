@@ -1,0 +1,40 @@
+{
+ "note": "Instagram'da paylaşılan/planlanan içerikler. Aynı içeriği tekrar paylaşma.",
+ "items": [
+  {
+   "date": "2026-11-06",
+   "type": "drill",
+   "name": "Sür, dur, öne ver"
+  },
+  {
+   "date": "2026-11-07",
+   "type": "set",
+   "name": "5 dışarıda: pas ver, kat et, doldur"
+  },
+  {
+   "date": "2026-11-08",
+   "type": "yazi",
+   "name": "Vücuduna değil, hedefe bak"
+  },
+  {
+   "date": "2026-11-09",
+   "type": "drill",
+   "name": "Eşli şut: at, al, ver"
+  },
+  {
+   "date": "2026-11-10",
+   "type": "savunma",
+   "name": "Yarı saha adam adama: temel düzen"
+  },
+  {
+   "date": "2026-11-11",
+   "type": "drill",
+   "name": "Huniye sür: köşeye yönlendir"
+  },
+  {
+   "date": "2026-11-12",
+   "type": "yazi",
+   "name": "Tek pota, yirmi oyuncu"
+  }
+ ]
+}
