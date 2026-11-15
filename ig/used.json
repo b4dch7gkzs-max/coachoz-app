@@ -90,6 +90,41 @@
    "date": "2026-11-16",
    "type": "drill",
    "name": "Uzun pasla turnike"
+  },
+  {
+   "date": "2026-11-17",
+   "type": "savunma",
+   "name": "Tam saha adam adama baskı"
+  },
+  {
+   "date": "2026-11-18",
+   "type": "drill",
+   "name": "Üç sıra şut, kaçıran karşıya"
+  },
+  {
+   "date": "2026-11-19",
+   "type": "yazi",
+   "name": "Hata yapınca dağılan oyuncu"
+  },
+  {
+   "date": "2026-11-20",
+   "type": "drill",
+   "name": "Üçlü örgü"
+  },
+  {
+   "date": "2026-11-21",
+   "type": "set",
+   "name": "4 dışarıda 1 içeride: posta pas"
+  },
+  {
+   "date": "2026-11-22",
+   "type": "yazi",
+   "name": "Isınma: koşu turu değil, antrenmanın ilk dersi"
+  },
+  {
+   "date": "2026-11-23",
+   "type": "drill",
+   "name": "Numaralı kutulama"
   }
  ]
 }
