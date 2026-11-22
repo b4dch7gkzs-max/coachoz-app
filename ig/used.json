@@ -125,6 +125,41 @@
    "date": "2026-11-23",
    "type": "drill",
    "name": "Numaralı kutulama"
+  },
+  {
+   "date": "2026-11-24",
+   "type": "savunma",
+   "name": "Yüksek alma: baskılı adam adama"
+  },
+  {
+   "date": "2026-11-25",
+   "type": "drill",
+   "name": "Geçişte üç şut"
+  },
+  {
+   "date": "2026-11-26",
+   "type": "yazi",
+   "name": "Baskı altında serbest atış"
+  },
+  {
+   "date": "2026-11-27",
+   "type": "drill",
+   "name": "Ortada sıçan"
+  },
+  {
+   "date": "2026-11-28",
+   "type": "set",
+   "name": "1-4 yüksek: arkadan kat"
+  },
+  {
+   "date": "2026-11-29",
+   "type": "yazi",
+   "name": "Az oynayan oyuncu"
+  },
+  {
+   "date": "2026-11-30",
+   "type": "drill",
+   "name": "Sürekli 2'ye 1"
   }
  ]
 }
